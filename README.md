@@ -1,1 +1,2 @@
-# scan_vision
+# RWA System | Robotic Warehouse Analytics
+RWA (Robotic Warehouse Analytics) — это система анализа данных, созданная для интеграции и обработки информации от роботизированных систем на складах. В отличие от традиционных WMS/ERP, RWA специализируется на аналитике работы роботов
